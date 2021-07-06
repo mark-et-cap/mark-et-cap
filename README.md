@@ -23,6 +23,7 @@ We'd love to gather feedback and build for real-life use cases. Let us know what
 ## Download the Extension/More Information
   - Website: [https://www.mark-et-cap.com/](https://www.mark-et-cap.com/)
   - Chrome Web Store: [https://chrome.google.com/webstore/detail/mark-et-cap/mopmpokmfchikmphegiccjnbddicaobk/](https://chrome.google.com/webstore/detail/mark-et-cap/mopmpokmfchikmphegiccjnbddicaobk/)
+  - Microsoft Edge Add-ons: 	[https://microsoftedge.microsoft.com/addons/detail/lidkcbecppnkcpjefbibddifdhpoldif](	https://microsoftedge.microsoft.com/addons/detail/lidkcbecppnkcpjefbibddifdhpoldif)
 
 ## Get in touch
   - Email: [info@mark-et-cap.com](info@mark-et-cap.com)
